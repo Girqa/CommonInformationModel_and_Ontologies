@@ -1,0 +1,3063 @@
+[
+  {
+    "deviceType": "Generator",
+    "fields": [],
+    "height": {
+      "en": 42,
+      "ru": 42
+    },
+    "id": "d1b5a55b-dbec-4eaa-9ec3-798524e056e9",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Generator",
+      "ru": "Генератор"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Generator.svg"],
+      "ru": ["/svg/devices/Generator.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "StaticCapacitorBank",
+    "fields": [],
+    "height": {
+      "en": 30,
+      "ru": 30
+    },
+    "id": "6d976b29-ddd2-4fc6-90ca-81e7c2251f55",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Static capacitor bank",
+      "ru": "Батарея статических конденсаторов"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Static capacitor bank.svg"],
+      "ru": ["/svg/devices/Static capacitor bank.svg"]
+    },
+    "width": {
+      "en": 35,
+      "ru": 35
+    }
+  },
+  {
+    "deviceType": "DetachablePinConnection",
+    "fields": [],
+    "height": {
+      "en": 25,
+      "ru": 25
+    },
+    "id": "5a4cbe29-598b-453a-a484-f9b14f92646b",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Detachable pin connection",
+      "ru": "Разъемное контактное соединие"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 5,
+          "ru": 5
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 5,
+          "ru": 5
+        },
+        "y": {
+          "en": 24,
+          "ru": 24
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Detachable pin connection.svg"],
+      "ru": ["/svg/devices/Detachable pin connection.svg"]
+    },
+    "width": {
+      "en": 11,
+      "ru": 11
+    }
+  },
+  {
+    "deviceType": "ModularSwitchboard",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "b3086824-9563-4054-994c-8ebbdda4b754",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Modular switchboard",
+      "ru": "Выкатная тележка без выключателя"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Modular switchboard.svg"],
+      "ru": ["/svg/devices/Modular switchboard.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "ModularSwitchboardWithFuse",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "09e1bea3-fa2b-42ee-a6ba-04af6ccb2a85",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Modular switchboard with fuse",
+      "ru": "Выкатная тележка с предохранителем"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Modular switchboard with a fuse.svg"],
+      "ru": ["/svg/devices/Modular switchboard with a fuse.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "IndoorCircuitBreaker",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "5d2bf1aa-e202-4921-bdf4-0e6667278a2c",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Indoor circuit breaker",
+      "ru": "Выкатная тележка"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 37,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 37,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Indoor circuit breaker EU.svg"],
+      "ru": ["/svg/devices/Indoor circuit breaker RU.svg"]
+    },
+    "width": {
+      "en": 43,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "Breaker",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "bc5f0550-b791-4c01-a839-5476216e09b8",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Breaker",
+      "ru": "Выключатель"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 37,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 37,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Breaker EU.svg"],
+      "ru": ["/svg/devices/Breaker RU.svg"]
+    },
+    "width": {
+      "en": 41,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "Grounding",
+    "fields": [],
+    "height": {
+      "en": 20,
+      "ru": 20
+    },
+    "id": "54dfdbf6-d3aa-4c80-a69a-d65effb994dd",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Grounding",
+      "ru": "Заземление"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 7,
+          "ru": 7
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Grounding.svg"],
+      "ru": ["/svg/devices/Grounding.svg"]
+    },
+    "width": {
+      "en": 15,
+      "ru": 15
+    }
+  },
+  {
+    "deviceType": "GroundDisconnector",
+    "fields": [],
+    "height": {
+      "en": 44,
+      "ru": 16
+    },
+    "id": "d3994378-e996-467e-a7a5-802bf874fdcc",
+    "labelDirection": {
+      "en": "top",
+      "ru": "top"
+    },
+    "name": {
+      "en": "Ground disconnector",
+      "ru": "Заземляющий нож (ЗН)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 36,
+          "ru": 8
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Ground disconnector EU.svg"],
+      "ru": ["/svg/devices/Ground disconnector RU.svg"]
+    },
+    "width": {
+      "en": 43,
+      "ru": 43
+    }
+  },
+  {
+    "deviceType": "Jumper",
+    "fields": [],
+    "height": {
+      "en": 13,
+      "ru": 13
+    },
+    "id": "a9f7134f-bc79-46bc-afb5-cbb974bc33cd",
+    "labelDirection": {
+      "en": "top",
+      "ru": "top"
+    },
+    "name": {
+      "en": "Jumper",
+      "ru": "Ошиновка"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 6,
+          "ru": 6
+        }
+      },
+      {
+        "alignment": {
+          "en": "right",
+          "ru": "right"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 67,
+          "ru": 67
+        },
+        "y": {
+          "en": 6,
+          "ru": 6
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Jumper.svg"],
+      "ru": ["/svg/devices/Jumper.svg"]
+    },
+    "width": {
+      "en": 68,
+      "ru": 68
+    }
+  },
+  {
+    "deviceType": "SurgeArrester",
+    "fields": [],
+    "height": {
+      "en": 40,
+      "ru": 40
+    },
+    "id": "1fbdb6d0-a168-4cd8-a9fe-21b1b5840efd",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Surge arrester",
+      "ru": "Ограничитель перенапряжения (ОПН)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 20,
+          "ru": 20
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Surge arrester EU.svg"],
+      "ru": ["/svg/devices/Surge arrester RU.svg"]
+    },
+    "width": {
+      "en": 60,
+      "ru": 60
+    }
+  },
+  {
+    "deviceType": "BoosterTransformer",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "66c1bdbd-5cd0-44e3-9128-9da04e7573e7",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Booster transformer",
+      "ru": "Вольтодобавочный трансформатор"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Booster transformer.svg"],
+      "ru": ["/svg/devices/Booster transformer.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "OpticalVoltageTransformer",
+    "fields": [],
+    "height": {
+      "en": 38,
+      "ru": 38
+    },
+    "id": "4e799e80-8512-492d-9d28-b82addc544b8",
+    "labelDirection": {
+      "en": "top",
+      "ru": "top"
+    },
+    "name": {
+      "en": "Optical VT",
+      "ru": "Цифровой ТН"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "left",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 7,
+          "ru": 7
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Optical VT.svg"],
+      "ru": ["/svg/devices/Optical VT.svg"]
+    },
+    "width": {
+      "en": 55,
+      "ru": 55
+    }
+  },
+  {
+    "deviceType": "OpticalCurrentTransformer",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "53e354a4-3ae7-45d2-a978-55c1e14590c5",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Optical CT",
+      "ru": "Цифровой ТТ"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 24,
+          "ru": 24
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 24,
+          "ru": 24
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Optical CT.svg"],
+      "ru": ["/svg/devices/Optical CT.svg"]
+    },
+    "width": {
+      "en": 49,
+      "ru": 49
+    }
+  },
+  {
+    "deviceType": "Fuse",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "41e2f8ad-9857-4cb9-b742-d6e114152f01",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Fuse",
+      "ru": "Предохранитель"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Fuse.svg"],
+      "ru": ["/svg/devices/Fuse.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "Disconnector",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "ac110b85-7f2f-457b-a867-5b959d0c40d9",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Disconnector",
+      "ru": "Разъединитель (Р)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 36,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 36,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Disconnector EU.svg"],
+      "ru": ["/svg/devices/Disconnector RU.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "CurrentLimitingReactorWithInductance",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "69c3833a-5adb-4386-a3b0-d4922b936202",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Current limiting reactor",
+      "ru": "Токоограничивающий реактор"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Reactor with inductance.svg"],
+      "ru": ["/svg/devices/Reactor with inductance.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "CurrentLimitingReactor",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "a208c408-3796-4ef7-bfac-38c56a438c1b",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Current limiting reactor",
+      "ru": "Токоограничивающий реактор"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Current limiting reactor.svg"],
+      "ru": ["/svg/devices/Current limiting reactor.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "ShuntReactor",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "fc296db5-bbd6-4c93-8b19-cc34e8762172",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Shunt reactor",
+      "ru": "Шунтирующий реактор"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Shunt reactor.svg"],
+      "ru": ["/svg/devices/Shunt reactor.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "DualCurrentLimitingReactor",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "d1a36ae7-3a73-4e34-83f5-dc9b1b09994f",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Dual current limiting reactor",
+      "ru": "Сдвоенный реактор (токоограничивающий)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom-left",
+        "x": {
+          "en": 3,
+          "ru": 3
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom-right",
+        "x": {
+          "en": 37,
+          "ru": 37
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Dual current limiting reactor.svg"],
+      "ru": ["/svg/devices/Dual current limiting reactor.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "TwoWindingVoltageTransformer",
+    "fields": [
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "1st winding type",
+          "ru": "Тип 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "1st winding accuracy class",
+          "ru": "Класс точности 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "2nd winding type",
+          "ru": "Тип 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "2nd winding accuracy class",
+          "ru": "Класс точности 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 31,
+      "ru": 45
+    },
+    "id": "a4ea3413-0ab5-400c-93a3-44588a299564",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Two-winding VT",
+      "ru": "Трансформатор напряжения 2-х обм"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 6,
+          "ru": 6
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Two-winding VT EU.svg"],
+      "ru": ["/svg/devices/Two-winding VT RU.svg"]
+    },
+    "width": {
+      "en": 13,
+      "ru": 28
+    }
+  },
+  {
+    "deviceType": "TwoWindingVoltageTransformerWithCd",
+    "fields": [
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "1st winding type",
+          "ru": "Тип 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "1st winding accuracy class",
+          "ru": "Класс точности 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "2nd winding type",
+          "ru": "Тип 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "2nd winding accuracy class",
+          "ru": "Класс точности 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 37,
+      "ru": 52
+    },
+    "id": "2b48b113-4919-4e53-8999-db00cf51785a",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Two-winding VT with capacitive divider",
+      "ru": "Трансформатор напряжения 2-х обм. с емкостным делителем"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "left",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 7,
+          "ru": 7
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Two-winding VT with a CD EU.svg"],
+      "ru": ["/svg/devices/Two-winding VT with a CD RU.svg"]
+    },
+    "width": {
+      "en": 55,
+      "ru": 55
+    }
+  },
+  {
+    "deviceType": "ThreeWindingVoltageTransformer",
+    "fields": [
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "1st winding type",
+          "ru": "Тип 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "1st winding accuracy class",
+          "ru": "Класс точности 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "2nd winding type",
+          "ru": "Тип 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "2nd winding accuracy class",
+          "ru": "Класс точности 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "3rd winding type",
+          "ru": "Тип 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "3rd winding accuracy class",
+          "ru": "Класс точности 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 30,
+      "ru": 45
+    },
+    "id": "051172d1-1f5a-4ebc-988a-fc2ff87dc3c4",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Three-winding VT",
+      "ru": "Трансформатор напряжения 3-х обм"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 11,
+          "ru": 7
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Three-winding VT EU.svg"],
+      "ru": ["/svg/devices/Three-winding VT RU.svg"]
+    },
+    "width": {
+      "en": 23,
+      "ru": 30
+    }
+  },
+  {
+    "deviceType": "ThreeWindingVoltageTransformerWithCd",
+    "fields": [
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "1st winding type",
+          "ru": "Тип 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "1st winding accuracy class",
+          "ru": "Класс точности 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "2nd winding type",
+          "ru": "Тип 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "2nd winding accuracy class",
+          "ru": "Класс точности 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "3rd winding type",
+          "ru": "Тип 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "3rd winding accuracy class",
+          "ru": "Класс точности 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 37,
+      "ru": 52
+    },
+    "id": "431b5a7e-d6b7-4151-bb11-92dff93c0ded",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Three-winding VT",
+      "ru": "Трансформатор напряжения 3-х обм"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "left",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 7,
+          "ru": 7
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Three-winding VT with a CD EU.svg"],
+      "ru": ["/svg/devices/Three-winding VT with a CD RU.svg"]
+    },
+    "width": {
+      "en": 55,
+      "ru": 55
+    }
+  },
+  {
+    "deviceType": "FourWindingVoltageTransformer",
+    "fields": [
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "1st winding type",
+          "ru": "Тип 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "1st winding accuracy class",
+          "ru": "Класс точности 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "2nd winding type",
+          "ru": "Тип 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "2nd winding accuracy class",
+          "ru": "Класс точности 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "3rd winding type",
+          "ru": "Тип 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "3rd winding accuracy class",
+          "ru": "Класс точности 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "4th winding type",
+          "ru": "Тип 4-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding4Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "4th winding accuracy class",
+          "ru": "Класс точности 4-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding4AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 33,
+      "ru": 51
+    },
+    "id": "09c29881-4a7f-456e-b130-a3f69fbf7e75",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Four-winding VT",
+      "ru": "Трансформатор напряжения 4-х обм"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 14,
+          "ru": 16
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Four-winding VT EU.svg"],
+      "ru": ["/svg/devices/Four-winding VT RU.svg"]
+    },
+    "width": {
+      "en": 29,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "FourWindingVoltageTransformerWithCd",
+    "fields": [
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "1st winding type",
+          "ru": "Тип 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "1st winding accuracy class",
+          "ru": "Класс точности 1-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding1AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "2nd winding type",
+          "ru": "Тип 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "2nd winding accuracy class",
+          "ru": "Класс точности 2-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding2AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "3rd winding type",
+          "ru": "Тип 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "3rd winding accuracy class",
+          "ru": "Класс точности 3-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding3AccuracyClass"
+      },
+      {
+        "directoryName": "WindingTypeDirectory",
+        "displayName": {
+          "en": "4th winding type",
+          "ru": "Тип 4-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding4Type"
+      },
+      {
+        "directoryName": "VoltageTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "4th winding accuracy class",
+          "ru": "Класс точности 4-й обмотки"
+        },
+        "fieldType": "directory",
+        "name": "Winding4AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 40,
+      "ru": 58
+    },
+    "id": "ce69c2ba-b381-4ba8-ad1a-c6018339682c",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Four-winding VT with capacitive divider",
+      "ru": "Трансформатор напряжения 4-х обм. c емкостным делителем"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "left",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 7,
+          "ru": 7
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Four-winding VT with a CD EU.svg"],
+      "ru": ["/svg/devices/Four-winding VT with a CD RU.svg"]
+    },
+    "width": {
+      "en": 55,
+      "ru": 55
+    }
+  },
+  {
+    "deviceType": "SinglePhaseCurrentTransformer",
+    "fields": [
+      {
+        "directoryName": "RatedCurrentDirectory",
+        "displayName": {
+          "en": "Primary rated current",
+          "ru": "Номинальный ток первичной обмотки"
+        },
+        "fieldType": "directory",
+        "name": "RatedCurrentPrimaryCircuit"
+      },
+      {
+        "directoryName": "RatedCurrentDirectory",
+        "displayName": {
+          "en": "Secondary rated current",
+          "ru": "Номинальный ток вторичной обмотки"
+        },
+        "fieldType": "directory",
+        "name": "RatedCurrentSecondaryCircuit"
+      },
+      {
+        "directoryName": "CurrentTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "Accuracy class",
+          "ru": "Класс точности"
+        },
+        "fieldType": "directory",
+        "name": "AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "5f177573-3adb-473d-a6c9-a80f24b7477b",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Single phase CT",
+      "ru": "Трансформатор тока (ТТ) 1 обм 1ф"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Single phase CT EU.svg"],
+      "ru": ["/svg/devices/Single phase CT RU.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "ThreePhaseCurrentTransformer",
+    "fields": [
+      {
+        "directoryName": "RatedCurrentDirectory",
+        "displayName": {
+          "en": "Primary rated current",
+          "ru": "Номинальный ток первичной обмотки"
+        },
+        "fieldType": "directory",
+        "name": "RatedCurrentPrimaryCircuit"
+      },
+      {
+        "directoryName": "RatedCurrentDirectory",
+        "displayName": {
+          "en": "Secondary rated current",
+          "ru": "Номинальный ток вторичной обмотки"
+        },
+        "fieldType": "directory",
+        "name": "RatedCurrentSecondaryCircuit"
+      },
+      {
+        "directoryName": "CurrentTransAccuracyClassDirectory",
+        "displayName": {
+          "en": "Accuracy class",
+          "ru": "Класс точности"
+        },
+        "fieldType": "directory",
+        "name": "AccuracyClass"
+      }
+    ],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "aada6f08-e7bc-4962-8f68-b6dad445c788",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Three-phase current transformer",
+      "ru": "Трансформатор тока (ТТ) 1 обмотка 3ф"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Three-phase CT EU.svg"],
+      "ru": ["/svg/devices/Three-phase CT RU.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "OverheadTransmissionLine",
+    "fields": [
+      {
+        "defaultValue": "0",
+        "directoryName": "PowerFlowDirectory",
+        "displayName": {
+          "en": "Power flow",
+          "ru": "Питание линии"
+        },
+        "fieldType": "directory",
+        "name": "PowerFlow"
+      }
+    ],
+    "height": {
+      "en": 50,
+      "ru": 50
+    },
+    "id": "1d44a94d-0f51-4d8f-b3d0-50333d5b1284",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Overhead transmission line",
+      "ru": "ВЛ (воздушная линия)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 49,
+          "ru": 49
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Overhead transmission line.svg"],
+      "ru": ["/svg/devices/Overhead transmission line.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "CableTransmissionLine",
+    "fields": [
+      {
+        "defaultValue": "0",
+        "directoryName": "PowerFlowDirectory",
+        "displayName": {
+          "en": "Power flow",
+          "ru": "Питание линии"
+        },
+        "fieldType": "directory",
+        "name": "PowerFlow"
+      }
+    ],
+    "height": {
+      "en": 50,
+      "ru": 50
+    },
+    "id": "42269c71-6568-4dcf-9731-dad7cb08a1dd",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Cable transmission line",
+      "ru": "КЛ (кабельная линия)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 49,
+          "ru": 49
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Cable transmission line.svg"],
+      "ru": ["/svg/devices/Cable transmission line.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "AutoTransformer",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 62,
+      "ru": 62
+    },
+    "id": "57b866aa-db57-410c-922f-058d3221abfc",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": false,
+    "name": {
+      "en": "Auto-transformer without tap changer",
+      "ru": "Автотрансформатор 3х обмоточный без РПН"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "right",
+          "ru": "right"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Middle voltage level",
+              "ru": "Средний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "right",
+        "x": {
+          "en": 34,
+          "ru": 34
+        },
+        "y": {
+          "en": 24,
+          "ru": 24
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 61,
+          "ru": 61
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Auto-transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Auto-transformer without tap changer MV.svg",
+        "/svg/devices/powertrans/Auto-transformer without tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Auto-transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Auto-transformer without tap changer MV.svg",
+        "/svg/devices/powertrans/Auto-transformer without tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 35,
+      "ru": 35
+    }
+  },
+  {
+    "deviceType": "AutoTransformerWithTapChanger",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 62,
+      "ru": 62
+    },
+    "id": "6abe2692-ea7a-4809-870b-23c816311fe9",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": true,
+    "name": {
+      "en": "Auto transformer with tap changer",
+      "ru": "Автотрансформатор 3х обмоточный с РПН"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Верхний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "right",
+          "ru": "right"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Middle voltage level",
+              "ru": "Средний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "right",
+        "x": {
+          "en": 34,
+          "ru": 34
+        },
+        "y": {
+          "en": 24,
+          "ru": 24
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 61,
+          "ru": 61
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Auto-transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Auto-transformer with tap changer MV.svg",
+        "/svg/devices/powertrans/Auto-transformer with tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Auto-transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Auto-transformer with tap changer MV.svg",
+        "/svg/devices/powertrans/Auto-transformer with tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 35,
+      "ru": 35
+    }
+  },
+  {
+    "deviceType": "TwoWindingPowerTransformer",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 55,
+      "ru": 55
+    },
+    "id": "49265762-daac-4bde-8357-d4b913460f58",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": false,
+    "name": {
+      "en": "Two-winding power transformer without tap changer",
+      "ru": "Трансформатор силовой 2-х без РПН"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 54,
+          "ru": 54
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Two-winding power transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Two-winding power transformer without tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Two-winding power transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Two-winding power transformer without tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 30,
+      "ru": 30
+    }
+  },
+  {
+    "deviceType": "TwoWindingPowerTransformerWithTapChanger",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 55,
+      "ru": 55
+    },
+    "id": "42b4902a-c7e4-4351-afad-cda6d424556b",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": true,
+    "name": {
+      "en": "Two-winding power transformer with tap changer",
+      "ru": "Трансформатор силовой 2-х с РПН"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Верхний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 54,
+          "ru": 54
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Two-winding power transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Two-winding power transformer with tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Two-winding power transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Two-winding power transformer with tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 35,
+      "ru": 35
+    }
+  },
+  {
+    "deviceType": "SplitWindingTransformer",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 53,
+      "ru": 53
+    },
+    "id": "4fa45e7b-cd49-4007-87f8-358ce76bee58",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": false,
+    "name": {
+      "en": "Split-winding transformer without tap changer",
+      "ru": "Трансформатор с расщепленной обмоткой без РПН (2 VL)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Верхний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 22,
+          "ru": 22
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom-left",
+        "x": {
+          "en": 12,
+          "ru": 12
+        },
+        "y": {
+          "en": 52,
+          "ru": 52
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom-right",
+        "x": {
+          "en": 32,
+          "ru": 32
+        },
+        "y": {
+          "en": 52,
+          "ru": 52
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Split-winding transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Split-winding transformer without tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Split-winding transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Split-winding transformer without tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 45,
+      "ru": 45
+    }
+  },
+  {
+    "deviceType": "SplitWindingTransformerWithTapChanger",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 53,
+      "ru": 53
+    },
+    "id": "c4de853c-0505-4df8-8dd0-073e98a9b1f1",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": true,
+    "name": {
+      "en": "Split-winding transformer with tap changer",
+      "ru": "Трансформатор с расщепленной обмоткой с РПН (2 VL)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Верхний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 22,
+          "ru": 22
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom-left",
+        "x": {
+          "en": 12,
+          "ru": 12
+        },
+        "y": {
+          "en": 52,
+          "ru": 52
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom-right",
+        "x": {
+          "en": 32,
+          "ru": 32
+        },
+        "y": {
+          "en": 52,
+          "ru": 52
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Split-winding transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Split-winding transformer with tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Split-winding transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Split-winding transformer with tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 45,
+      "ru": 45
+    }
+  },
+  {
+    "deviceType": "ThreeWindingPowerTransformer",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 55,
+      "ru": 55
+    },
+    "id": "77a29082-68e2-44ca-84a5-5c7b7c02741c",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": false,
+    "name": {
+      "en": "Three-winding power transformer without tap changer",
+      "ru": "Трансформатор силовой 3-х без РПН (3 VL)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Верхний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "right",
+          "ru": "right"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Middle voltage level",
+              "ru": "Средний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "right",
+        "x": {
+          "en": 52,
+          "ru": 52
+        },
+        "y": {
+          "en": 27,
+          "ru": 27
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 54,
+          "ru": 54
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Three-winding power transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer without tap changer MV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer without tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Three-winding power transformer without tap changer HV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer without tap changer MV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer without tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 53,
+      "ru": 53
+    }
+  },
+  {
+    "deviceType": "ThreeWindingPowerTransformerWithTapChanger",
+    "fields": [
+      {
+        "displayName": {
+          "en": "Apparent power, MVA",
+          "ru": "Полная мощность, МВА"
+        },
+        "fieldType": "input",
+        "inputType": "number",
+        "name": "ApparentPower"
+      }
+    ],
+    "height": {
+      "en": 55,
+      "ru": 55
+    },
+    "id": "1eda194d-1c4d-4d98-b23e-803ef281d074",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "loadTapChanger": true,
+    "name": {
+      "en": "Three-winding power transformer with tap changer",
+      "ru": "Трансформатор силовой 3-х с РПН (3 VL)"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Upper voltage level",
+              "ru": "Верхний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "top",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "right",
+          "ru": "right"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Middle voltage level",
+              "ru": "Средний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "right",
+        "x": {
+          "en": 52,
+          "ru": 52
+        },
+        "y": {
+          "en": 27,
+          "ru": 27
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [
+          {
+            "directoryName": "VoltageLevelDirectory",
+            "displayName": {
+              "en": "Lower voltage level",
+              "ru": "Нижний уровень напряжения"
+            },
+            "fieldType": "directory",
+            "name": "voltageLevel"
+          }
+        ],
+        "name": "bottom",
+        "x": {
+          "en": 17,
+          "ru": 17
+        },
+        "y": {
+          "en": 54,
+          "ru": 54
+        }
+      }
+    ],
+    "svg": {
+      "en": [
+        "/svg/devices/powertrans/Three-winding power transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer with tap changer MV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer with tap changer LV.svg"
+      ],
+      "ru": [
+        "/svg/devices/powertrans/Three-winding power transformer with tap changer HV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer with tap changer MV.svg",
+        "/svg/devices/powertrans/Three-winding power transformer with tap changer LV.svg"
+      ]
+    },
+    "transformer": true,
+    "width": {
+      "en": 53,
+      "ru": 53
+    }
+  },
+  {
+    "deviceType": "RfFilter",
+    "fields": [],
+    "height": {
+      "en": 49,
+      "ru": 49
+    },
+    "id": "fa6152d2-dfd9-11eb-ba80-0242ac130004",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "RF filter",
+      "ru": "Фильтр присоединения"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 10,
+          "ru": 10
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/RF filter EU.svg"],
+      "ru": ["/svg/devices/RF filter RU.svg"]
+    },
+    "width": {
+      "en": 21,
+      "ru": 21
+    }
+  },
+  {
+    "deviceType": "WaveTrap",
+    "fields": [],
+    "height": {
+      "en": 60,
+      "ru": 60
+    },
+    "id": "9180d33d-dd30-4835-9350-96fb2a7b5e8a",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Wave trap",
+      "ru": "ВЧ-заградитель"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "top",
+          "ru": "top"
+        },
+        "fields": [],
+        "name": "top",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 0,
+          "ru": 0
+        }
+      },
+      {
+        "alignment": {
+          "en": "bottom",
+          "ru": "bottom"
+        },
+        "fields": [],
+        "name": "bottom",
+        "x": {
+          "en": 20,
+          "ru": 20
+        },
+        "y": {
+          "en": 59,
+          "ru": 59
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Wave trap.svg"],
+      "ru": ["/svg/devices/Wave trap.svg"]
+    },
+    "width": {
+      "en": 40,
+      "ru": 40
+    }
+  },
+  {
+    "deviceType": "CouplingCapacitor",
+    "fields": [],
+    "height": {
+      "en": 15,
+      "ru": 15
+    },
+    "id": "04188e81-36d4-4b37-a649-51dd68e45a56",
+    "labelDirection": {
+      "en": "left",
+      "ru": "left"
+    },
+    "name": {
+      "en": "Coupling capacitor",
+      "ru": "Конденсатор связи"
+    },
+    "ports": [
+      {
+        "alignment": {
+          "en": "left",
+          "ru": "left"
+        },
+        "fields": [],
+        "name": "left",
+        "x": {
+          "en": 0,
+          "ru": 0
+        },
+        "y": {
+          "en": 7,
+          "ru": 7
+        }
+      },
+      {
+        "alignment": {
+          "en": "right",
+          "ru": "right"
+        },
+        "fields": [],
+        "name": "right",
+        "x": {
+          "en": 23,
+          "ru": 23
+        },
+        "y": {
+          "en": 7,
+          "ru": 7
+        }
+      }
+    ],
+    "svg": {
+      "en": ["/svg/devices/Coupling capacitor.svg"],
+      "ru": ["/svg/devices/Coupling capacitor.svg"]
+    },
+    "width": {
+      "en": 24,
+      "ru": 24
+    }
+  }
+]
