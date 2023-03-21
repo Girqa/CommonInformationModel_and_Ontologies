@@ -22,6 +22,27 @@ public class AnnotationProcessorTest {
 
     @SneakyThrows
     @Test
+    void diagramToCimConverterTest() {
+        JsonMapper jsonMapper = new JsonMapper();
+        Diagram diagram = jsonMapper.mapJsonToDiagram("src/test/resources/Viezdnoe.json");
+
+        DiagramToCimConverter converter = new DiagramToCimConverter();
+        Model model = converter.convert(
+                diagram,
+                "src/test/resources/VoltageLevelDirectory.json",
+                "src/test/resources/DeviceDirectory.json");
+        String result = converter.getResult(RDFFormat.RDFXML, model);
+
+        PrintWriter writer = new PrintWriter(new FileOutputStream("src/test/resources/cim-rdf.xml"));
+        try {
+            writer.println(result);
+        } finally {
+            writer.close();
+        }
+    }
+
+    @SneakyThrows
+    @Test
     void processAnnotationsTest() {
         ModelBuilder modelBuilder = new ModelBuilder()
                 .setNamespace("cim", "http://iec.ch/TC57/2013/CIM-schema-cim16#");
@@ -89,14 +110,11 @@ public class AnnotationProcessorTest {
                         case ONE_TO_MANY -> {
                             List<IdentifiedObject> subs = (List<IdentifiedObject>) field.get(resource);
                             objectsToWrite.addAll(subs);
-                            for (IdentifiedObject sub: subs) {
-                                builder.add("cim:" + resource.getType() + "." + sub.getType(), "rdf:resource=" + sub.getMRID());
-                            }
                         }
                         case ONE_TO_ONE, MANY_TO_ONE -> {
                             IdentifiedObject object = (IdentifiedObject) field.get(resource);
                             objectsToWrite.add(object);
-                            builder.add("cim:" + resource.getType() + "." + object.getType(), "rdf:resource=" + object.getMRID());
+                            builder.add("cim:" + resource.getType() + "." + object.getType(), "rdf:" + object.getMRID());
                         }
                     }
                 } else if (field.isAnnotationPresent(RdfDataType.class) &&
